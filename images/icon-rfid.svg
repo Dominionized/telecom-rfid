@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="75"
+   height="75"
+   viewBox="0 0 75 75"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="icon-rfid.svg">
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs22" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1596"
+     inkscape:window-height="861"
+     id="namedview20"
+     showgrid="false"
+     inkscape:zoom="6.2933333"
+     inkscape:cx="34.767114"
+     inkscape:cy="56.750287"
+     inkscape:window-x="0"
+     inkscape:window-y="1061"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g6" />
+  <title
+     id="title4">icon-rfid</title>
+  <g
+     transform="translate(3 3)"
+     fill="none"
+     fill-rule="evenodd"
+     id="g6">
+    <rect
+       stroke="#212121"
+       stroke-width="2"
+       x=".166"
+       y=".166"
+       width="68.669"
+       height="68.669"
+       rx="7"
+       id="rect8"
+       style="stroke:#ffffff" />
+    <path
+       d="M3.91 47.69V10.16c0-3.45 2.79-6.247 6.232-6.247h48.716c3.44 0 6.23 2.79 6.23 6.232v48.716c0 3.44-2.795 6.23-6.237 6.23H20.326L3.91 47.692z"
+       stroke="#212121"
+       stroke-width="2"
+       id="path10"
+       style="stroke:#ffffff" />
+    <path
+       d="M7.657 46.076V13.138c0-3.027 2.446-5.48 5.468-5.48h42.75c3.02 0 5.468 2.445 5.468 5.467v42.75c0 3.02-2.453 5.468-5.473 5.468H22.06L7.658 46.076z"
+       stroke="#212121"
+       stroke-width="2"
+       id="path12"
+       style="stroke:#ffffff" />
+    <path
+       d="M11.402 44.46V16.12c0-2.606 2.105-4.718 4.705-4.718h36.786c2.598 0 4.705 2.105 4.705 4.705v36.786c0 2.598-2.112 4.705-4.71 4.705H23.796L11.402 44.46z"
+       stroke="#212121"
+       stroke-width="2"
+       id="path14"
+       style="stroke:#ffffff" />
+    <path
+       d="M26.385 35.124H15.148V19.1c0-2.183 1.763-3.952 3.942-3.952h30.82c2.177 0 3.942 1.763 3.942 3.942v30.82c0 2.177-1.77 3.942-3.946 3.942H25.532"
+       stroke="#212121"
+       stroke-width="2"
+       id="path16"
+       style="stroke:#ffffff" />
+    <rect
+       fill="#212121"
+       x="26"
+       y="26"
+       width="18"
+       height="18"
+       rx="3"
+       id="rect18"
+       style="fill:#ffffff" />
+  </g>
+</svg>
