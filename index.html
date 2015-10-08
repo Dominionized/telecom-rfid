@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="utf-8">
 
-		<title>reveal.js - The HTML Presentation Framework</title>
+		<title>RFID</title>
 
 		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
 		<meta name="author" content="Hakim El Hattab">
@@ -16,6 +16,7 @@
 
 		<link rel="stylesheet" href="css/reveal.css">
 		<link rel="stylesheet" href="css/theme/black.css" id="theme">
+		<link rel="stylesheet" type="text/css" href="css/styles.css">
 
 		<!-- Code syntax highlighting -->
 		<link rel="stylesheet" href="lib/css/zenburn.css">
@@ -48,6 +49,7 @@
                 <section>
                     <h2>Description sommaire</h2>
                     <ul>
+                    	<li><b class="red text-uppercase">R</b>adio <b class="red text-uppercase">F</b>requency <b class="red text-uppercase">Id</b>entification</li>
                     	<li>Système d'identification</li>
                         <li>Champ électromagnétique</li>
                         <li>Sans fil</li>
@@ -58,7 +60,68 @@
                     <h2>Historique</h2>
                 </section>
                 <section>
+                	<section>
+	                	<h2>Types</h2>
+	                	<ul>
+	                		<li>Passifs</li>
+	                		<li>Actifs</li>
+	                		<li>Passifs assistés par batterie (Semi-passifs)</li>
+	                	</ul>
+                	</section>
+                	<section>
+                		<h2>Les RFID passifs</h2>
+                		<ul>
+                			<li>Dépedent d'une activation par énergie des radio-fréquences</li>
+                			<li>De courte portée (3m et +)</li>
+                			<li>Peu cher (5¢ à 5,00$)</li>
+                			<li>Peu de stockage (96-128 bits et +)</li>
+                			<li>Les lecteurs coûtent plus cher</li>
+                		</ul>
+                	</section>
+                	<section>
+                		<h2>Les RFID actifs</h2>
+                		<ul>
+                			<li>Source d'énergie obligatoire</li>
+                			<li>Longue portée (100m et +)</li>
+                			<li>Plus cher (15$ à 100$)</li>
+                			<li>Plus de stockage (128kB et +)</li>
+                			<li>Les lecteurs coûtent moins cher</li>
+                		</ul>
+                	</section>
+                	<section>
+                		<h2>Les catégories de fréquences</h2>
+                		<p>
+                			Avec des RFID fonctionnant à basses fréquences (LF), l'environnement perturbe
+                			<span class="red">moins</span> le transfert de données. À l'inverse, les
+                			émetteurs à haute fréquence (HF) et à ultra haute fréquence (UHF) ont de <span class="red">meilleures performances</span>.
+                		</p>
+                		<table>
+                			<thead>
+                				<tr>
+                					<th>Catégorie</th>
+                					<th>Entendue de fréquences</th>
+                				</tr>
+                			</thead>
+                			<tr>
+                				<td>Basse fréquence</td>
+                				<td>58-148.5 kHz</td>
+                			</tr>
+                			<tr>
+                				<td>Haute fréquence</td>
+                				<td>1.75-13.56 MHz</td>
+                			</tr>
+                			<tr>
+                				<td>Ultra Haute fréquence</td>
+                				<td>433, 840-960 MHz et 2.4 GHz</td>
+                			</tr>
+                		</table>
+                	</section>
+                </section>
+                <section>
                     <h2>Protocoles</h2>
+                    <ul>
+                    	<li></li>
+                    </ul>
                 </section>
             </div>
 

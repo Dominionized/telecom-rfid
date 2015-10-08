@@ -1,0 +1,8 @@
+.red {
+	color: #E53935;
+	text-decoration: underline;text-uppercase
+}
+
+.text-uppercase {
+	text-transform: uppercase;
+}
